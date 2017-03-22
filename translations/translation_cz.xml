@@ -86,11 +86,11 @@
         <text name="ui_days" text="% i dnů"/>
         <text name="ui_temperatureFahrenheit" text="Fahrenheit"/>
         <text name="ui_temperatureCelcius" text="Celzius"/>
-        <text name="tooltip_seasonLength" text="Délka období ve dnech. Rok je čtyři roční období."/>
+        <text name="tooltip_seasonLength" text="Délka období ve dnech. Rok je rozdělen na čtyři roční období."/>
         <text name="tooltip_seasonIntros" text="Ukázat vstup na začátku sezóny."/>
         <text name="tooltip_snow" text="Sníh bude padat v chladné zimě a blokovat silnice."/>
         <text name="tooltip_controlsHelp" text="Zobrazit předpovědi a klávesové zkratky v okně nápovědy."/>
-        <text name="tooltip_snowTracks" text="Vozidla stlačí sní při jízdě na něm."/>
+        <text name="tooltip_snowTracks" text="Při jízdě po sněhu vozidla stlačí sníh."/>
         <text name="tooltip_controlsTemperature" text="Nastavit teplotní stupnici používanou ve hře"/>
         <text name="tooltip_moisture" text="Plodina vlhkost"/>
         <text name="setting_seasonIntros" text="Úvody do sezón"/>
